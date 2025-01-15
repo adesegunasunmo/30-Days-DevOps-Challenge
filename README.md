@@ -121,5 +121,5 @@ Working on this project helped me gain hands-on experience with:
 - Set up a CI/CD pipeline for streamlined deployments.
 
 ## Connect and Collaborate
-This project is a part of my **30 Days DevOps Challenge**. Feedback and suggestions are welcome!
+This project is a part of my ***30 Days DevOps Challenge***. Feedback and suggestions are welcome!
 Feel free to fork the repository, submit pull requests, or reach out for collaboration.
