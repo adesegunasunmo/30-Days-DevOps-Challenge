@@ -27,11 +27,13 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
   - boto3 (AWS SDK)
   - python-dotenv
   - requests
-    
+---
+
 ## Architectural Review
 
 ![Weather-dashboard](https://github.com/user-attachments/assets/31f11c48-0f71-4cd4-8009-8f7f1552127d)
 
+---
 ## Project Structure
 
 ```markdown
