@@ -56,8 +56,7 @@ Ensure the following tools and credentials are set up on your local machine befo
 
 1. Clone the repository:
   ```
-  git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git
-
+  git clone git@github.com:adesegunasunmo/30-Days-DevOps-Challenge.git
   ```
 
 2. Create a Virtual Environment
