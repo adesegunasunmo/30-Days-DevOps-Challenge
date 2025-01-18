@@ -108,7 +108,7 @@ Execute the Python script to fetch and upload weather data:
    ```
 
 
-## What I Learned
+## What We Learned
 Working on this project helped me gain hands-on experience with:
 
 - AWS S3: Creating and managing buckets.
