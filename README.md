@@ -99,6 +99,9 @@ AWS_BUCKET_NAME=your_bucket_name
 aws configure
 
 ```
+![image](https://github.com/user-attachments/assets/1971bdd4-4252-4f9d-99c5-46d941dd63e5)
+
+
 5.Run the Application
 Execute the Python script to fetch and upload weather data:
 
@@ -106,6 +109,7 @@ Execute the Python script to fetch and upload weather data:
    ``` 
    python src/weather_dashboard.py
    ```
+![image](https://github.com/user-attachments/assets/df048559-3862-4b25-a7b6-290c1f9a5ea6)
 
 
 ## What We Learned
@@ -125,6 +129,9 @@ Working on this project helped me gain hands-on experience with:
 - Create automated testing for better reliability.
 - Set up a CI/CD pipeline for streamlined deployments.
 
+
 ## Connect and Collaborate
 This project is a part of my ***30 Days DevOps Challenge***. Feedback and suggestions are welcome!
 Feel free to fork the repository, submit pull requests, or reach out for collaboration.
+
+
